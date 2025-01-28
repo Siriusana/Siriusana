@@ -4,7 +4,7 @@
 > I'm current diving into Databases SQL/NoSQL and Node.js, expanding my skills in backend development and data management.
 - How to reach me: ✨
   <div>
-<a href="www.linkedin.com/in/ana-julia-ogs" target="_blank">
+<a href="https://www.linkedin.com/in/ana-julia-oliveira-22a275293/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
