@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<img src= "https://github.com/user-attachments/assets/b6dd4cd5-9cdb-4026-bdf7-08b8d72ca6dd" width="300px">
+<img src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="300px">
 
   
  ## Skills
