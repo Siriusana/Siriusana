@@ -14,19 +14,19 @@
 <img src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="300px">
 
   
- ## Skills
+ ## Languages
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siriusana&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-##  Learning
+##  Skills
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 7%; height: auto; alt="javascript logo"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 7%; height: auto;" alt="react logo"  />
