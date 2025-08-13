@@ -1,56 +1,39 @@
-##  Hi there! ✨ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NxMzF4N3NubzV4endkY3pyZmt5Zjc0djhpd2V2djdhMTcwbmVsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J2T2uTE0POCSQ/giphy.gif" width= 100> 
-
-> I'm a technology enthusiast with experience in designing and delivering educational projects using Python and Arduino.
-> I'm current diving into Databases SQL/NoSQL and Node.js, expanding my skills in frontend development and data management.
-- How to reach me: ✨
-  <div>
-<a href="https://www.linkedin.com/in/ana-julia-oliveira-22a275293/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Siriusana/wave_banner.svg/refs/heads/main/wave_banner.svg?token=GHSAT0AAAAAADI32663BXT2HYUIG2JPL2GQ2E4EVDQ" width="100%" alt="Banner animado com ondas" />
 </div>
+
+## Hi there! ✨ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NxMzF4N3NubzV4endkY3pyZmt5Zjc0djhpd2V2djdhMTcwbmVsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J2T2uTE0POCSQ/giphy.gif" width= 100>
+
+<blockquote>
+    <p><i>
+  > I'm a technology enthusiast with experience in designing and delivering educational projects using Python and Arduino.
+  > I'm current diving into Databases SQL/NoSQL and Node.js, expanding my skills in frontend development and data management.
+      
+## How to reach me: ✨
+<div align="left" >
+  <a href="https://www.linkedin.com/in/ana-julia-oliveira-22a275293/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <img src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="300px">
+</div>
+  
+<div align="center">
+<b><img width="12"
+  src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
+  src="https://skillicons.dev/icons?i=nodejs"> Node.JS | <img width="12"
+  src="https://skillicons.dev/icons?i=react"> React.JS | <img width="12"
+  src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
+  src="https://skillicons.dev/icons?i=mysql"> MySQL | <img width="12"                             
+  src="https://skillicons.dev/icons?i=cplusplus"> C++ <img width="12"                         
 <br>
 
-<img src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="300px">
+##
 
-  
- ## Languages
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siriusana&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-##  Skills
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 7%; height: auto; alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 7%; height: auto;" alt="react logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 7%; height: auto; alt="python logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 7%; height: auto;" alt="mysql logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 7%; height: auto; alt="nodejs logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 7%; height: auto; alt="cplusplus logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 7%; height: auto; alt="github logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 7%; height: auto; alt="arduino logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width: 7%; height: auto; alt="vscode logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width: 7%; height: auto; alt="firebase logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width: 7%; height: auto; alt="flutter logo"  />
-</div>
-
-###
-
+<br>
+  <a href="https://github.com/Siriusana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siriusana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" /></a>
   <br/>
  <br>
