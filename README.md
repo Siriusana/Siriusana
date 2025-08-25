@@ -24,18 +24,25 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NxMzF4N3NubzV4endkY3pyZ
       
 ---
 
-<div align="center">
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ana-julia-ogs)
-[![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:anajuliaogs07@gmail.com)
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/ana-julia-ogs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/siriusana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 <br>
+
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siriusana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" width="350px">
-  <img align="left" src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="350px">
+  <img src="https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="400px">
+  <br><br>
+  <a href="https://github.com/siriusana/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusana&theme=transparent&show_icons=true&hide_border=true&layout=compact" width="350px">
+  </a>
 </div>
-<br/>
+
 
 
 
