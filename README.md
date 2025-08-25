@@ -37,7 +37,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NxMzF4N3NubzV4endkY3pyZ
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="400px">
-  <br><br>
+  <br>
   <a href="https://github.com/siriusana/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusana&theme=transparent&show_icons=true&hide_border=true&layout=compact" width="350px">
   </a>
