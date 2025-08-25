@@ -32,8 +32,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NxMzF4N3NubzV4endkY3pyZ
 
 <br>
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siriusana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" width="200px">
-  <img align="left" src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="200px">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siriusana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" width="350px">
+  <img align="left" src= "https://github.com/user-attachments/assets/183231fb-ff78-4c3b-9156-96abd40fe0a3" width="350px">
 </div>
 <br/>
 
