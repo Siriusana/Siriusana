@@ -26,7 +26,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NxMzF4N3NubzV4endkY3pyZ
 
 <div align="center">
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ana-julia-oliveira-22a275293/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ana-julia-ogs)
 [![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:anajuliaogs07@gmail.com)
 </div>
 
