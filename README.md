@@ -5,7 +5,7 @@
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
   src="https://skillicons.dev/icons?i=nodejs"> Node.JS | <img width="12"
   src="https://skillicons.dev/icons?i=react"> React.JS | <img width="12"
-  src="https://skillicons.dev/icons?i=typescript"> Typescript  <img width="12"
+  src="https://skillicons.dev/icons?i=typescript"> Typescript | <img width="12"
   src="https://skillicons.dev/icons?i=python"> Python | <img width="12"</b>
 <br>
 <br>
