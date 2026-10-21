@@ -1,11 +1,13 @@
-<h1 align="center"> Ana Julia Gomes </h1>
+<h1 align="center"> Ana Julia Oliveira </h1>
 
 <div align="center">
 <b><img width="12"
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
-  src="https://skillicons.dev/icons?i=nodejs"> Node.JS | <img width="12"
-  src="https://skillicons.dev/icons?i=react"> React.JS | <img width="12"
   src="https://skillicons.dev/icons?i=typescript"> Typescript | <img width="12"
+  src="https://skillicons.dev/icons?i=react"> React.JS | <img width="12"
+  src="https://skillicons.dev/icons?i=nodejs"> Node.JS | <img width="12"
+  src="https://skillicons.dev/icons?i=sass"> Sass | <img width="12"
+  src="https://skillicons.dev/icons?i=vue"> Vue | <img width="12"
   src="https://skillicons.dev/icons?i=python"> Python <img width="12"</b>
 <br>
 <br>
